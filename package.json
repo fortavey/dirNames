@@ -1,0 +1,16 @@
+{
+  "name": "dirnames",
+  "version": "1.0.0",
+  "description": "",
+  "main": "makeSiteList.js",
+  "scripts": {
+    "dev": "node unzip.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.5.16",
+    "decompress": "^4.2.1"
+  }
+}
